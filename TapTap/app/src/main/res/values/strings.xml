@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tap Tap!</string>
+    <string name="text">INSTRUCTIONS:\n\nTry to tap in the center 100 times in under 30 seconds.\n\nGood Luck!</string>
+    <string name="number">100</string>
+</resources>
